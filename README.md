@@ -21,11 +21,11 @@ https://cdn.rawgit.com/mikeeryan/online_degree2/bf4b99b5/p3_customer_segments.ht
 
 Deep Learning
 
-https://github.com/mikeeryan/online_degree2/blob/master/p4_dog_app.html
+https://cdn.rawgit.com/mikeeryan/online_degree2/76ff0a3c/p4_dog_app.html
 
 Reinforcement Learning
 
-https://github.com/mikeeryan/online_degree2/blob/master/p5_quadcopter.html
+https://cdn.rawgit.com/mikeeryan/online_degree2/76ff0a3c/p5_quadcopter.html
 
 Machine Learning Capstone 
 Topic: Generative Deep Learning using RNN 
