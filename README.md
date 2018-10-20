@@ -79,6 +79,3 @@ Please note that you will need the auxiliary_script.py script to import the clea
 
 Data Source:
 The Internet Movie Script Database (IMSDb). https://www.imsdb.com/
-
-Capstone proposal approval:
-https://review.udacity.com/?utm_campaign=ret_000_auto_ndxxx_submission-reviewed&utm_source=blueshift&utm_medium=email&utm_content=reviewsapp-submission-reviewed&bsft_clkid=86d11c18-5672-468e-9739-3e7cfef84e57&bsft_uid=dfdceb69-41bc-40a4-8fa6-d6a2de590849&bsft_mid=4cc8d0e3-1a04-4d8d-9632-b250a29d4677&bsft_eid=6f154690-7543-4582-9be7-e397af208dbd&bsft_txnid=414b376d-166b-4486-baa9-144eb3c811df#!/reviews/1422326
